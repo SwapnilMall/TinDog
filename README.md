@@ -1,2 +1,2 @@
 # TinDog
-Its tinder for dogs
+Its tinder for dogs 🦮 🐶
